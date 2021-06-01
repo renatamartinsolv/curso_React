@@ -1,2 +1,3 @@
 # curso_React
-Created with CodeSandbox
+
+Aplicação de um Kanban Board criado no curso React para Iniciantes da plataforma Udemy.
